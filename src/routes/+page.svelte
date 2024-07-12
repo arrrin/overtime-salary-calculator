@@ -1,3 +1,10 @@
-<div class="container">
-	<h1 class="text-3xl font-bold underline">Overtime calculator</h1>
+<script>
+  import Header from "../component/header.svelte";
+  import Button from "../component/button.svelte";
+</script>
+
+<div class="bg-gray-700 rounded-b-lg">
+  <Header></Header>
+
 </div>
+
