@@ -2,18 +2,6 @@
 	<div class="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8">
 		<form method="POST" action="/">
 			<div class="grid grid-cols-1 gap-x-16 gap-y-8 lg:grid-cols-5">
-				<div class="lg:col-span-2 lg:py-12">
-					<p class="max-w-xl text-lg">
-						At the same time, the fact that we are wholly owned and totally independent from
-						manufacturer and other group control gives you confidence that we will only recommend
-						what is right for you.
-					</p>
-
-					<div class="mt-8">
-
-						<address class="mt-2 not-italic">282 Kevin Brook, Imogeneborough, CA 58517</address>
-					</div>
-				</div>
 
 				<div class="rounded-lg bg-white p-8 shadow-lg lg:col-span-3 lg:p-12">
 					<form action="#" class="space-y-4">
